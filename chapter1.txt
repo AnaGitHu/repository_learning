@@ -1,1 +1,2 @@
 Test Git files
+Added a second line
